@@ -19,4 +19,4 @@ internal documents, evals that compare models by accuracy, latency and cost, and
 Earlier: a production triangular-arbitrage trading system on MEXC (asyncio, WebSocket, real money),
 smart contracts on EVM and Solana, performance-marketing automation with LLM lead qualification.
 
-📧 pavel.shev4uk@gmail.com · 💬 [@developerl228](https://t.me/developerl228) · [LinkedIn](https://www.linkedin.com/in/pavel-shev4uk-70b7bb227/)
+📧 pavel.shev4uk@gmail.com · 💬 [@developerl228](https://t.me/developerl228) · [LinkedIn](https://www.linkedin.com/in/pavlo-shevchuk-70b7bb227/)
